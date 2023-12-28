@@ -1,5 +1,9 @@
-# wind-fit
-🎉
+<div align="center">
+    <h1><code>wind-fit</code></h1>
+  
+  <img src="https://github.com/97revenge/wind-fit/assets/80254945/4e2457c4-ac63-4edd-b076-b4c43f7e18fe"/> <div/>
+
+
 To get started, run:
 
 ```bash
